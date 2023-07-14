@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\CSprojects\homework\sem9\num68\obj\Debug\net7.0\num68.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\CSprojects\homework\sem9\num68\obj\Debug\net7.0\num68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\CSprojects\homework\sem9\num68\obj\Debug\net7.0\num68.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\CSprojects\homework\sem9\num68\obj\Debug\net7.0\num68.AssemblyInfo.cs
+C:\Users\1\Desktop\CSprojects\homework\sem9\num68\obj\Debug\net7.0\num68.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\CSprojects\homework\sem9\num68\bin\Debug\net7.0\num68.exe
+C:\Users\1\Desktop\CSprojects\homework\sem9\num68\bin\Debug\net7.0\num68.deps.json
+C:\Users\1\Desktop\CSprojects\homework\sem9\num68\bin\Debug\net7.0\num68.runtimeconfig.json
+C:\Users\1\Desktop\CSprojects\homework\sem9\num68\bin\Debug\net7.0\num68.dll
+C:\Users\1\Desktop\CSprojects\homework\sem9\num68\bin\Debug\net7.0\num68.pdb
+C:\Users\1\Desktop\CSprojects\homework\sem9\num68\obj\Debug\net7.0\num68.dll
+C:\Users\1\Desktop\CSprojects\homework\sem9\num68\obj\Debug\net7.0\refint\num68.dll
+C:\Users\1\Desktop\CSprojects\homework\sem9\num68\obj\Debug\net7.0\num68.pdb
+C:\Users\1\Desktop\CSprojects\homework\sem9\num68\obj\Debug\net7.0\num68.genruntimeconfig.cache
+C:\Users\1\Desktop\CSprojects\homework\sem9\num68\obj\Debug\net7.0\ref\num68.dll
